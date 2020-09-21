@@ -1,0 +1,12 @@
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.exe
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.json
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.runtimeconfig.dev.json
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\Composite\Composite\obj\Debug\netcoreapp3.1\Composite.genruntimeconfig.cache

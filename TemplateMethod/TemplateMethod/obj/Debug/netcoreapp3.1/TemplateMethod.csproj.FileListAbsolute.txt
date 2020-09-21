@@ -1,0 +1,12 @@
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.exe
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.deps.json
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.json
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.runtimeconfig.dev.json
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\bin\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.csprojAssemblyReference.cache
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfoInputs.cache
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.AssemblyInfo.cs
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.dll
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.pdb
+C:\Users\gsDoctor\source\repos\ProgramacaoAvancada\TemplateMethod\TemplateMethod\obj\Debug\netcoreapp3.1\TemplateMethod.genruntimeconfig.cache
