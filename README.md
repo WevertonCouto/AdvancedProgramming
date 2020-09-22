@@ -8,3 +8,6 @@
 #### TemplateMethod
 - Uma classe abstrata expõe formas / modelos definidos para executar seus métodos. Suas subclasses podem substituir a implementação do método conforme a necessidade, mas a invocação deve ser da mesma forma definida por uma classe abstrata.
 - Pode ser usado quando tiver uma sequencia de executação bem definida, onde seus filhos irão utilizar.
+
+<img width="500" height="500" src="https://prashantbrall.files.wordpress.com/2010/12/template-pattern-uml-class-diagram.png?w=376"/>
+
