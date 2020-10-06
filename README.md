@@ -15,4 +15,4 @@
 -   é um padrão de projeto que garante que sua aplicação vai criar apenas uma instância da classe a qualquer momento.
 -   Pode reduzir utilização de memoria.
 
-<img width="500" height="500" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Ff%2Ffb%2FSingleton_UML_class_diagram.svg%2F1200px-Singleton_UML_class_diagram.svg.png&imgrefurl=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSingleton_pattern&tbnid=8wqMvS7SiCnYTM&vet=12ahUKEwi6uKul257sAhU2BrkGHaEjAesQMygBegUIARCdAQ..i&docid=x5TOvWHH4tqLNM&w=1200&h=720&q=Singleton%20diagram&ved=2ahUKEwi6uKul257sAhU2BrkGHaEjAesQMygBegUIARCdAQ" />
+<img width="500" height="500" src="https://www.researchgate.net/profile/Armando_Rene_Narvaez_Contreras/publication/314175216/figure/fig8/AS:467513608806409@1488475338499/Singleton-pattern-class-diagram.png" />
