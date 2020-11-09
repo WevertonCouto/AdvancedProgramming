@@ -16,3 +16,9 @@
 -   Pode reduzir utilização de memoria.
 
 <img width="500" height="500" src="https://www.researchgate.net/profile/Armando_Rene_Narvaez_Contreras/publication/314175216/figure/fig8/AS:467513608806409@1488475338499/Singleton-pattern-class-diagram.png" />
+
+### Observer
+-   é uma padrão que define uma dependência um-para-muitos entre objetos para que, quando um objeto mudar de estado, todos os seus dependentes sejam notificados e atualizados automaticamente.
+-   Altera o status de todos os seus dependentes.
+
+<img width="500" height="500" src="https://www.dofactory.com/img/diagrams/net/observer.gif" />
